@@ -18,8 +18,8 @@ import (
 
 const (
 	AvitoURL      = "жесткий диск 500гб"
-	BotToken      = "7863271218:AAEhX8H40AbLPG-9rQ53O8hmVevfA3NMOmI"
-	ChatID        = 5253442052
+	BotToken      = ""
+	ChatID        = 
 	MaxPrice      = 500
 	CheckEvery    = 5 * time.Minute
 	NoResultsTime = 30 * time.Minute
